@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lenpad.github.io</id>
     <title>NPSay</title>
-    <updated>2019-05-28T09:59:09.664Z</updated>
+    <updated>2019-05-28T10:11:01.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lenpad.github.io"/>
     <link rel="self" href="https://lenpad.github.io/atom.xml"/>
@@ -10,6 +10,54 @@
     <logo>https://lenpad.github.io/images/avatar.png</logo>
     <icon>https://lenpad.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, NPSay</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello world]]></title>
+        <id>https://lenpad.github.io/post/hello-world</id>
+        <link href="https://lenpad.github.io/post/hello-world">
+        </link>
+        <updated>2019-05-28T10:02:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>這是一個測試文檔，只是為了看看效果。
+反正現在<strong>沒人會看到這個網站</strong>。
+這將成為我的一個 Blog，雖然很可能經常斷更。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>這是一個測試文檔，只是為了看看效果。
+反正現在<strong>沒人會看到這個網站</strong>。
+這將成為我的一個 Blog，雖然很可能經常斷更。</p>
+<!-- more -->
+<p><a href="https://www.facebook.com/nengpeng.shi">我的 Facebook</a></p>
+<h2 id="功能演練">功能演練</h2>
+<p>例如<strong>加粗</strong></p>
+<p>例如<em>斜體</em></p>
+<p>例如各種標題</p>
+<h1 id="標題">標題</h1>
+<h2 id="標題-2">標題</h2>
+<h3 id="標題-3">標題</h3>
+<h4 id="標題-4">標題</h4>
+<h5 id="標題-5">標題</h5>
+<h6 id="標題-6">標題</h6>
+<blockquote>
+<p>例如</p>
+</blockquote>
+<p>可以是序列</p>
+<ul>
+<li>順</li>
+<li>順</li>
+<li>順</li>
+<li>順</li>
+</ul>
+<p>或者是順序</p>
+<ol>
+<li>甲</li>
+<li>乙</li>
+<li>丙</li>
+<li>丁</li>
+</ol>
+<p>插入圖片
+<img src="https://lenpad.github.io/post-images/1559038200942.JPG" alt=""></p>
+<p>增加連接
+<a href="https://scontent-hkg3-2.xx.fbcdn.net/v/t1.0-9/61198434_10210881191026363_2181747810460762112_o.jpg?_nc_cat=108&amp;_nc_ht=scontent-hkg3-2.xx&amp;oh=7adf2d53612b9a00b07f2b7d940d63a0&amp;oe=5D94660D">圖片連接</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://lenpad.github.io/post/hello-gridea</id>
